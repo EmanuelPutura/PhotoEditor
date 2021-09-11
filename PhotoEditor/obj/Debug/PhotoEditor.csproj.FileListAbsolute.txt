@@ -1,0 +1,11 @@
+D:\Emanuel\Informatica\C#\Proiecte personale\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.exe.config
+D:\Emanuel\Informatica\C#\Proiecte personale\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.exe
+D:\Emanuel\Informatica\C#\Proiecte personale\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.pdb
+D:\Emanuel\Informatica\C#\Proiecte personale\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.Properties.Resources.resources
+D:\Emanuel\Informatica\C#\Proiecte personale\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.GenerateResource.cache
+D:\Emanuel\Informatica\C#\Proiecte personale\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.exe
+D:\Emanuel\Informatica\C#\Proiecte personale\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.pdb
+D:\Emanuel\Informatica\C#\Proiecte personale\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.mainForm.resources
+D:\Emanuel\Informatica\C#\Proiecte personale\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.SizeDialog.resources
+D:\Emanuel\Informatica\C#\Proiecte personale\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csprojAssemblyReference.cache
+D:\Emanuel\Informatica\C#\Proiecte personale\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.CoreCompileInputs.cache
