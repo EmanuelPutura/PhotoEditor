@@ -8,3 +8,4 @@ D:\Emanuel\Informatica\C#\Proiecte personale\PhotoEditor\PhotoEditor\obj\Release
 D:\Emanuel\Informatica\C#\Proiecte personale\PhotoEditor\PhotoEditor\obj\Release\PhotoEditor.csproj.GenerateResource.cache
 D:\Emanuel\Informatica\C#\Proiecte personale\PhotoEditor\PhotoEditor\obj\Release\PhotoEditor.exe
 D:\Emanuel\Informatica\C#\Proiecte personale\PhotoEditor\PhotoEditor\obj\Release\PhotoEditor.pdb
+D:\Emanuel\Informatica\C#\Proiecte personale\PhotoEditor\PhotoEditor\obj\Release\PhotoEditor.csproj.CoreCompileInputs.cache
