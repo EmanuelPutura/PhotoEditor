@@ -15,3 +15,12 @@
     $ PhotoEditor.exe
     ```
 
+
+## Features
+All the available features can be accessed from the menu bar.
+1. File menu
+   - New (menu item): start a new editing session
+   - Open (menu item): select an already existing image to edit it
+   - Save/Save as (menu items): save the image
+
+   ![File Menu](https://github.com/EmanuelPutura/PhotoEditor/blob/main/img/file_menu.png)
