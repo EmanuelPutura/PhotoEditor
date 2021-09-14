@@ -36,7 +36,10 @@ All the available features can be accessed from the menu bar.
    
 
 3. Edit menu
-   - Draw points (menu item): start drawing points of a chosen color. After choosing the color, you have to press the ```D``` key to start drawing and the ```Enter``` key      to stop drawing (or to select the stop drawing option from the edit menu)
-   - Draw circles (menu item): 
-   - Draw multicolored circles (menu item):
-   - Stop drawing (menu item): 
+   For every selected menu option you have to press the ```D``` key to start drawing and the ```Enter``` key to stop drawing (or to select the stop drawing option from the edit menu).
+   - Draw points (menu item): start drawing points of a chosen color
+   - Draw circles (menu item): start drawing circles of a chosen color
+   - Draw multicolored circles (menu item): start drawing circles. The color of each circle is randomly selected
+   - Stop drawing (menu item)
+   
+   <p align="center"> <img src="https://github.com/EmanuelPutura/PhotoEditor/blob/main/img/edit_menu.png" height="400"/> </p>
