@@ -34,3 +34,9 @@ All the available features can be accessed from the menu bar.
    <!-- ![Customize Menu](https://github.com/EmanuelPutura/PhotoEditor/blob/main/img/customize_menu.png) -->
    <p align="center"> <img src="https://github.com/EmanuelPutura/PhotoEditor/blob/main/img/customize_menu.png" height="400"/> </p>
    
+
+3. Edit menu
+   - Draw points (menu item): start drawing points of a chosen color. After choosing the color, you have to press the ```sh D``` key to start drawing and the ```sh Enter``` key      to stop drawing (or to select the stop drawing option from the edit menu)
+   - Draw circles (menu item): 
+   - Draw multicolored circles (menu item):
+   - Stop drawing (menu item): 
