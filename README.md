@@ -22,7 +22,7 @@ All the available features can be accessed from the menu bar.
 1. File menu
    - New (menu item): start a new editing session
    - Open (menu item): select an already existing image to edit it
-   - Save/Save as (menu items): save the image
+   - Save/Save as (menu items): save the edited image
 
    <!-- ![File Menu](https://github.com/EmanuelPutura/PhotoEditor/blob/main/img/file_menu.png) -->
    <p align="center"> <img src="https://github.com/EmanuelPutura/PhotoEditor/blob/main/img/file_menu.png" height="400"/> </p>
@@ -43,3 +43,13 @@ All the available features can be accessed from the menu bar.
    - Stop drawing (menu item)
    
    <p align="center"> <img src="https://github.com/EmanuelPutura/PhotoEditor/blob/main/img/edit_menu.png" height="400"/> </p>
+
+
+4. Filter menu
+   Add a filter to the image. The available options are:
+   - Default (return to default image if filter has already been added)
+   - Black and white
+   - Sepia
+   - Negative
+   
+   <p align="center"> <img src="https://github.com/EmanuelPutura/PhotoEditor/blob/main/img/filter_menu.png" height="400"/> </p>
