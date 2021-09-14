@@ -36,20 +36,25 @@ All the available features can be accessed from the menu bar.
    
 
 3. Edit menu
-   For every selected menu option you have to press the ```D``` key to start drawing and the ```Enter``` key to stop drawing (or to select the stop drawing option from the edit menu).
    - Draw points (menu item): start drawing points of a chosen color
    - Draw circles (menu item): start drawing circles of a chosen color
    - Draw multicolored circles (menu item): start drawing circles. The color of each circle is randomly selected
    - Stop drawing (menu item)
+   - For every selected menu option a new window opens in order for the user to choose the size of the points/circles and to press the ```D``` key to start drawing and the ```Enter``` key to stop drawing (or to select the stop drawing option from the edit menu).
    
    <p align="center"> <img src="https://github.com/EmanuelPutura/PhotoEditor/blob/main/img/edit_menu.png" height="400"/> </p>
 
 
-4. Filter menu
-   Add a filter to the image. The available options are:
+4. Filter menu (add a filter to the image)
    - Default (return to default image if filter has already been added)
    - Black and white
    - Sepia
    - Negative
    
    <p align="center"> <img src="https://github.com/EmanuelPutura/PhotoEditor/blob/main/img/filter_menu.png" height="400"/> </p>
+
+
+5. Add menu
+   - Photo (menu item): add a photo to the current image. After selecting the photo to be added and its size, the user has to ```right click``` anywhere on the application's window and to press the ```Add photo here``` in order to add the photo
+
+   <p align="center"> <img src="https://github.com/EmanuelPutura/PhotoEditor/blob/main/img/add_menu.png" height="400"/> </p>
