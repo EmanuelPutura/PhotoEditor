@@ -24,3 +24,9 @@ All the available features can be accessed from the menu bar.
    - Save/Save as (menu items): save the image
 
    ![File Menu](https://github.com/EmanuelPutura/PhotoEditor/blob/main/img/file_menu.png)
+   
+2. Customize menu
+   - New color theme (menu item): choose two colors from a color dialog box and create a new color theme for the application (i.e., the background colors of the window)
+   - Custom color themes (menu item): select an already existing color theme (four such themes are available)
+
+   ![Customize Menu](https://github.com/EmanuelPutura/PhotoEditor/blob/main/img/customize_menu.png)
