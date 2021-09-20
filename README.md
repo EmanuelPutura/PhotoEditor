@@ -55,7 +55,7 @@ All the available features can be accessed from the menu bar.
 
 
 5. Add menu
-   - Photo (menu item): add a photo to the current image. After selecting the photo to be added and its size, the user has to ```right click``` anywhere on the application's window and to press the ```Add photo here``` in order to add the photo
+   - Photo (menu item): add a photo to the current image. After selecting the photo to be added and its size, the user has to ```right click``` anywhere on the application's window and to press ```Add photo here``` in order to add the photo
 
    <p align="center"> <img src="https://github.com/EmanuelPutura/PhotoEditor/blob/main/img/add_menu.png" height="400"/> </p>
 
