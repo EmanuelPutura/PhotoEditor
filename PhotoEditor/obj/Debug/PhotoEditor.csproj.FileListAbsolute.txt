@@ -9,3 +9,14 @@ D:\Emanuel\Informatica\C#\Proiecte personale\PhotoEditor\PhotoEditor\obj\Debug\P
 D:\Emanuel\Informatica\C#\Proiecte personale\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.SizeDialog.resources
 D:\Emanuel\Informatica\C#\Proiecte personale\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csprojAssemblyReference.cache
 D:\Emanuel\Informatica\C#\Proiecte personale\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.CoreCompileInputs.cache
+D:\Personal Projects\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.exe.config
+D:\Personal Projects\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.exe
+D:\Personal Projects\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.pdb
+D:\Personal Projects\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.AssemblyReference.cache
+D:\Personal Projects\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.mainForm.resources
+D:\Personal Projects\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.Properties.Resources.resources
+D:\Personal Projects\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.SizeDialog.resources
+D:\Personal Projects\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.GenerateResource.cache
+D:\Personal Projects\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.CoreCompileInputs.cache
+D:\Personal Projects\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.exe
+D:\Personal Projects\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.pdb
